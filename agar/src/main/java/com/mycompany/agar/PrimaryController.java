@@ -15,8 +15,8 @@ public class PrimaryController {
     private ArrayList<Circulo> comidas;
     private int numComida;
     private Bolita bolita;
-    double mouseX=0;
-    double mouseY=0;
+    private double mouseX=0;
+    private double mouseY=0;
     
     @FXML
     private void initialize(){
