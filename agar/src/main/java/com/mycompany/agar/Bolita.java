@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import javafx.animation.AnimationTimer;
 /**
  *
- * @author user
+ * @author Erillope
  */
 public class Bolita extends Circulo{
     
