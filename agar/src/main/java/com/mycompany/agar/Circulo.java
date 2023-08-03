@@ -9,7 +9,7 @@ import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
 /**
  *
- * @author user
+ * @author Erillope
  */
 public class Circulo extends Circle{
     protected static Pane myPane;
